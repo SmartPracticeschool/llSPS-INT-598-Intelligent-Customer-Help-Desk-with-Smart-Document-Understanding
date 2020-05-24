@@ -10,4 +10,4 @@ The webhook will be created by defining a web action using IBM Cloud Functions.
 
 Node-RED application link : https://node-red-omklj.eu-gb.mybluemix.net/ui
 
-Youtube Explanation Video link :
+Youtube Explanation Video link : https://youtu.be/5BDDCJOo7Mo

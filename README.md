@@ -9,3 +9,5 @@ Using Watson Assistant, we will use a standard customer care dialog to handle a 
 The webhook will be created by defining a web action using IBM Cloud Functions.
 
 Node-RED application link : https://node-red-omklj.eu-gb.mybluemix.net/ui
+
+Youtube Explanation Video link :
